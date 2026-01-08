@@ -1,0 +1,5 @@
+'''
+commment
+'''
+
+print('Hello, World!')
